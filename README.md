@@ -23,12 +23,12 @@
 - 👯 I’m looking to collaborate on [Youtube].
 - 🤔 I’m looking for help with career guidance.
 - 💬 Ask me about Full Stack Development or any tech related stuff.
-- 📫 How to reach me: [Linkedin - @MoneshVenkul](https://www.linkedin.com/in/swapnil-rahate-b19009213?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3ByVVRI5ObSim1rIU1j%2B27EA%3D%3D) , [Gmail - @swapnilrahate6598]
+- 📫 How to reach me: [Linkedin - @Swapnil Rahate](https://www.linkedin.com/in/swapnil-rahate-b19009213?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3ByVVRI5ObSim1rIU1j%2B27EA%3D%3D) , [Gmail - @swapnilrahate6598]
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I would love to work with same minded people like me as a team.
 
-[![Linkedin: MoneshVenkul](https://img.shields.io/badge/-MoneshVenkul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/monesh-venkul-vommi-8a80b6174/)](https://www.linkedin.com/in/monesh-venkul-vommi-8a80b6174/)
-[![GitHub MoneshVenkul](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/moneshvenkul)
+[![Linkedin: Swapnil Rahate](https://img.shields.io/badge/-MoneshVenkul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/monesh-venkul-vommi-8a80b6174/)](https://www.linkedin.com/in/monesh-venkul-vommi-8a80b6174/)
+[![GitHub MrSwapnilRahate](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/moneshvenkul)
 [![website](https://img.shields.io/badge/PortfolioWebsite-MoneshVenkul.live-2648ff?style=flat-square&logo=google-chrome)](https://moneshvenkul.github.io/)
 
 
