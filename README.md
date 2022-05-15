@@ -1,12 +1,12 @@
 ## Hola, I'm [Mr Swapnil Rahate!](https://mrswapnilrahate.github.io/) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="moneshvenkul" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="MrSwapnilRahate" /> </p>
 
 
-<a href="https://www.linkedin.com/in/monesh-venkul-vommi-8a80b6174/">
-  <img align="left" alt="Monesh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/swapnil-rahate-b19009213?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3ByVVRI5ObSim1rIU1j%2B27EA%3D%3D">
+  <img align="left" alt="MrSwapnilRahate Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/moneshvenkul">
+<a href="https://github.com/mrswapnilrahate">
   <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCRQ77SxTf4WRoJEO6YNPakA">
