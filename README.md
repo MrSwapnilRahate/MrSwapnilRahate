@@ -9,20 +9,18 @@
 
 ## 🤖 About Me
 
-```python
-class SwapnilRahate:
-    role        = "AI Full Stack Developer"
-    company     = "Infosys"
-    location    = "Nagpur, India"
-    experience  = "3+ years"
-    ai_stack    = ["LangChain", "LangGraph", "OpenAI API", "RAG", "Vector Databases"]
-    fullstack   = ["React.js", "Node.js", "FastAPI", "MongoDB", "Express.js"]
-    currently   = "Building production-ready AI applications"
-    available   = "Open for freelance AI projects"
+| | |
+|---|---|
+| 🎯 **Role** | AI Full Stack Developer |
+| 🏢 **Company** | Infosys |
+| 📍 **Location** | Nagpur, India 🇮🇳 |
+| ⏳ **Experience** | 3+ Years |
+| 🤖 **AI Stack** | LangChain · LangGraph · OpenAI API · RAG · Vector Databases · Prompt Engineering |
+| 🌐 **Full Stack** | React.js · Node.js · FastAPI · MongoDB · Express.js · REST APIs |
+| 🔨 **Currently** | Building production-ready AI applications |
+| 💼 **Available** | Open for freelance AI projects 🚀 |
 
-    def mission(self):
-        return "I build AI systems that eliminate repetitive work and deliver real business value."
-```
+> **Mission:** I build AI systems that eliminate repetitive work and deliver real business value.
 
 ---
 
