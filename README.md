@@ -1,19 +1,3 @@
-## Hi there 👋
-
-<!--
-**MrSwapnilRahate/MrSwapnilRahate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
 
 <!-- Animated Header Banner -->
@@ -36,7 +20,7 @@ Here are some ideas to get you started:
 
 ## 🤖 About Me
 
-⁠ python
+```python
 class SwapnilRahate:
     role        = "AI Full Stack Developer"
     company     = "Infosys"
@@ -54,7 +38,7 @@ class SwapnilRahate:
 
     def mission(self):
         return "I build AI systems that eliminate repetitive work and deliver real business value."
- ⁠
+```
 
 ---
 
@@ -135,7 +119,7 @@ Complete end-to-end applications — from FastAPI/Node.js backend to React UI �
 ### 🧠 AI Document Assistant
 RAG-powered chatbot trained on business documents. Ask anything, get intelligent answers instantly.
 
-*Tech:* LangChain · OpenAI · FAISS · React · FastAPI
+**Tech:** LangChain · OpenAI · FAISS · React · FastAPI
 
 [![Repo](https://img.shields.io/badge/View_Project-000?style=for-the-badge&logo=github)](https://github.com/swapnilrahate)
 
@@ -145,7 +129,7 @@ RAG-powered chatbot trained on business documents. Ask anything, get intelligent
 ### 🤖 AI Lead Outreach Agent
 Multi-agent system that researches prospects and auto-drafts hyper-personalized cold emails.
 
-*Tech:* LangGraph · GPT-4 · Node.js · Express
+**Tech:** LangGraph · GPT-4 · Node.js · Express
 
 [![Repo](https://img.shields.io/badge/View_Project-000?style=for-the-badge&logo=github)](https://github.com/swapnilrahate)
 
@@ -155,7 +139,7 @@ Multi-agent system that researches prospects and auto-drafts hyper-personalized 
 ### ✈️ AI Travel Planner
 Plan your entire trip — hotels, food, places, schedule — inside one intelligent chat interface.
 
-*Tech:* LangChain · React · FastAPI · OpenAI
+**Tech:** LangChain · React · FastAPI · OpenAI
 
 [![Repo](https://img.shields.io/badge/View_Project-000?style=for-the-badge&logo=github)](https://github.com/swapnilrahate)
 
@@ -186,9 +170,9 @@ Plan your entire trip — hotels, food, places, schedule — inside one intellig
 
 <div align="center">
 
-	⁠🚀 *Currently available for AI development projects*
+> 🚀 **Currently available for AI development projects**
 >
-	⁠RAG Systems · AI Agents · LLM Applications · Full Stack AI Apps · Workflow Automation
+> RAG Systems · AI Agents · LLM Applications · Full Stack AI Apps · Workflow Automation
 
 [![Hire Me on Upwork](https://img.shields.io/badge/Hire_Me-Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com)
 [![Email Me](https://img.shields.io/badge/Email-hello@swapnil.ai-00d2ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@swapnil.ai)
@@ -200,7 +184,7 @@ Plan your entire trip — hotels, food, places, schedule — inside one intellig
 
 <div align="center">
 
-"I don't just write code — I build AI systems that deliver real business value."
+*"I don't just write code — I build AI systems that deliver real business value."*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,50:0a3d62,100:0d1117&height=120&section=footer&animation=fadeIn" />
 
