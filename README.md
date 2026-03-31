@@ -4,8 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:00d2ff&height=200&section=header&text=Swapnil%20Rahate&fontSize=60&fontColor=00d2ff&fontAlignY=38&desc=AI%20Full%20Stack%20Developer&descAlignY=58&descSize=22&descColor=ffffff&animation=fadeIn" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=🤖+Building+AI+Systems+That+Actually+Work;⚡+LangChain+%7C+RAG+%7C+LLM+Applications;🚀+React+%7C+Node.js+%7C+FastAPI;💡+Turning+Business+Problems+Into+AI+Solutions" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&height=45&lines=Building+AI+Systems+That+Actually+Work+%F0%9F%A4%96;LangChain+%7C+RAG+%7C+LLM+Applications+%E2%9A%A1;React+%7C+Node.js+%7C+FastAPI+%F0%9F%9A%80;Turning+Business+Problems+Into+AI+Solutions+%F0%9F%92%A1" alt="Typing SVG" />
 <br/>
 
 <!-- Profile Views + Social Badges -->
