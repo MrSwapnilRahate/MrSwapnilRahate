@@ -14,3 +14,194 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:00d2ff&height=200&section=header&text=Swapnil%20Rahate&fontSize=60&fontColor=00d2ff&fontAlignY=38&desc=AI%20Full%20Stack%20Developer&descAlignY=58&descSize=22&descColor=ffffff&animation=fadeIn" />
+
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=🤖+Building+AI+Systems+That+Actually+Work;⚡+LangChain+%7C+RAG+%7C+LLM+Applications;🚀+React+%7C+Node.js+%7C+FastAPI;💡+Turning+Business+Problems+Into+AI+Solutions" alt="Typing SVG" />
+
+<br/>
+
+<!-- Profile Views + Social Badges -->
+[![Profile Views](https://komarev.com/ghpvc/?username=swapnilrahate&color=00d2ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/swapnilrahate)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swapnilrahate)
+[![Portfolio](https://img.shields.io/badge/Portfolio-swapnil.ai-00d2ff?style=for-the-badge&logo=safari&logoColor=white)](https://swapnil.ai)
+[![Email](https://img.shields.io/badge/Email-hello@swapnil.ai-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@swapnil.ai)
+
+</div>
+
+---
+
+## 🤖 About Me
+
+⁠ python
+class SwapnilRahate:
+    role        = "AI Full Stack Developer"
+    company     = "Infosys"
+    location    = "Nagpur, India 🇮🇳"
+    experience  = "3+ years"
+
+    ai_stack    = ["LangChain", "LangGraph", "OpenAI API",
+                   "RAG", "Vector Databases", "Prompt Engineering"]
+
+    fullstack   = ["React.js", "Node.js", "FastAPI",
+                   "MongoDB", "REST APIs", "Express.js"]
+
+    currently   = "Building production-ready AI applications"
+    available   = "Open for freelance AI projects 🚀"
+
+    def mission(self):
+        return "I build AI systems that eliminate repetitive work and deliver real business value."
+ ⁠
+
+---
+
+## 🚀 What I Build
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 RAG Systems
+AI-powered knowledge bases that let businesses query their documents, SOPs, and data through natural language — no more manual searching.
+
+</td>
+<td width="50%">
+
+### 🤖 AI Agents & Automation
+Multi-step reasoning workflows using LangChain & LangGraph that automate complex business processes end-to-end.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💬 LLM Chat Interfaces
+Production-ready AI assistants with clean React frontends — intelligent, fast, and built for real users.
+
+</td>
+<td width="50%">
+
+### ⚡ Full Stack AI Apps
+Complete end-to-end applications — from FastAPI/Node.js backend to React UI — powered by AI at the core.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+### 🤖 AI / LLM Layer
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Systems-00d2ff?style=for-the-badge&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-Vector_DB-13AA52?style=for-the-badge&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF9900?style=for-the-badge&logoColor=white)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🔧 Tools & Infra
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+---
+
+## 🔥 Featured AI Projects
+
+<table>
+<tr>
+<td width="33%">
+
+### 🧠 AI Document Assistant
+RAG-powered chatbot trained on business documents. Ask anything, get intelligent answers instantly.
+
+*Tech:* LangChain · OpenAI · FAISS · React · FastAPI
+
+[![Repo](https://img.shields.io/badge/View_Project-000?style=for-the-badge&logo=github)](https://github.com/swapnilrahate)
+
+</td>
+<td width="33%">
+
+### 🤖 AI Lead Outreach Agent
+Multi-agent system that researches prospects and auto-drafts hyper-personalized cold emails.
+
+*Tech:* LangGraph · GPT-4 · Node.js · Express
+
+[![Repo](https://img.shields.io/badge/View_Project-000?style=for-the-badge&logo=github)](https://github.com/swapnilrahate)
+
+</td>
+<td width="33%">
+
+### ✈️ AI Travel Planner
+Plan your entire trip — hotels, food, places, schedule — inside one intelligent chat interface.
+
+*Tech:* LangChain · React · FastAPI · OpenAI
+
+[![Repo](https://img.shields.io/badge/View_Project-000?style=for-the-badge&logo=github)](https://github.com/swapnilrahate)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrSwapnilRahate&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=00d2ff&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSwapnilRahate&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&text_color=ffffff"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=MrSwapnilRahate&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d2ff&ring=00d2ff&fire=ff6b6b&currStreakLabel=00d2ff)
+
+</div>
+
+---
+
+## 💼 Open For Freelance
+
+<div align="center">
+
+	⁠🚀 *Currently available for AI development projects*
+>
+	⁠RAG Systems · AI Agents · LLM Applications · Full Stack AI Apps · Workflow Automation
+
+[![Hire Me on Upwork](https://img.shields.io/badge/Hire_Me-Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com)
+[![Email Me](https://img.shields.io/badge/Email-hello@swapnil.ai-00d2ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@swapnil.ai)
+[![Portfolio](https://img.shields.io/badge/Portfolio-swapnil.ai-ffffff?style=for-the-badge&logo=safari&logoColor=black)](https://swapnil.ai)
+
+</div>
+
+---
+
+<div align="center">
+
+"I don't just write code — I build AI systems that deliver real business value."
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,50:0a3d62,100:0d1117&height=120&section=footer&animation=fadeIn" />
+
+</div>
