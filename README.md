@@ -1,10 +1,10 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:00d2ff&height=200&section=header&text=Swapnil%20Rahate&fontSize=60&fontColor=00d2ff&fontAlignY=38&desc=AI%20Full%20Stack%20Developer&descAlignY=58&descSize=22&descColor=ffffff&animation=fadeIn)
 
 <p align="center">
-  <a href="https://linkedin.com/in/swapnilrahate"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:hello@swapnil.ai"><img src="https://img.shields.io/badge/Email-hello@swapnil.ai-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://swapnil.ai"><img src="https://img.shields.io/badge/Portfolio-swapnil.ai-00d2ff?style=for-the-badge&logo=safari&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=MrSwapnilRahate&color=00d2ff&style=for-the-badge&label=PROFILE+VIEWS"/>
+<a href="https://linkedin.com/in/swapnilrahate"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:hello@swapnil.ai"><img src="https://img.shields.io/badge/Email-hello@swapnil.ai-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://swapnil.ai"><img src="https://img.shields.io/badge/Portfolio-swapnil.ai-00d2ff?style=for-the-badge&logo=safari&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=MrSwapnilRahate&color=00d2ff&style=for-the-badge&label=PROFILE+VIEWS"/>
 </p>
 
 ---
@@ -17,13 +17,8 @@ class SwapnilRahate:
     company     = "Infosys"
     location    = "Nagpur, India"
     experience  = "3+ years"
-
-    ai_stack    = ["LangChain", "LangGraph", "OpenAI API",
-                   "RAG", "Vector Databases", "Prompt Engineering"]
-
-    fullstack   = ["React.js", "Node.js", "FastAPI",
-                   "MongoDB", "REST APIs", "Express.js"]
-
+    ai_stack    = ["LangChain", "LangGraph", "OpenAI API", "RAG", "Vector Databases"]
+    fullstack   = ["React.js", "Node.js", "FastAPI", "MongoDB", "Express.js"]
     currently   = "Building production-ready AI applications"
     available   = "Open for freelance AI projects"
 
@@ -37,11 +32,11 @@ class SwapnilRahate:
 
 | 🧠 RAG Systems | 🤖 AI Agents |
 |---|---|
-| AI-powered knowledge bases that let businesses query their documents through natural language | Multi-step reasoning workflows using LangChain and LangGraph that automate complex business processes |
+| AI knowledge bases that let businesses query documents through natural language | Multi-step reasoning workflows using LangChain and LangGraph |
 
 | 💬 LLM Chat Interfaces | ⚡ Full Stack AI Apps |
 |---|---|
-| Production-ready AI assistants with clean React frontends — intelligent, fast, built for real users | Complete end-to-end applications from FastAPI backend to React UI — powered by AI at the core |
+| Production-ready AI assistants with clean React frontends | End-to-end apps from FastAPI backend to React UI powered by AI |
 
 ---
 
@@ -83,30 +78,30 @@ class SwapnilRahate:
 
 ---
 
-## 🔥 Featured AI Projects
+## 🔥 Featured Projects
 
 ### 🧠 AI Document Assistant
-> RAG-powered chatbot trained on your business documents. Ask anything in plain English — get intelligent answers instantly. No more manual searching through files.
+> RAG-powered chatbot trained on business documents. Ask anything in plain English and get intelligent answers instantly.
 
-**Tech Stack:** LangChain · OpenAI API · FAISS · React · FastAPI · Python
+**Tech:** LangChain · OpenAI API · FAISS · React · FastAPI
 
 [![View Project](https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github)](https://github.com/MrSwapnilRahate)
 
 ---
 
 ### 🤖 AI Lead Outreach Agent
-> Multi-agent system that researches your prospects automatically and drafts hyper-personalized cold emails — saving hours of manual research every day.
+> Multi-agent system that researches prospects and auto-drafts personalized cold emails — saving hours of manual work daily.
 
-**Tech Stack:** LangGraph · GPT-4 · Node.js · Express · MongoDB
+**Tech:** LangGraph · GPT-4 · Node.js · Express · MongoDB
 
 [![View Project](https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github)](https://github.com/MrSwapnilRahate)
 
 ---
 
 ### ✈️ AI Travel Planning Assistant
-> Plan your entire trip — hotels, food, places, schedule — inside one intelligent chat interface. No more switching between 10 different apps.
+> Plan your entire trip inside one intelligent chat — hotels, food, places, schedule. No more switching between apps.
 
-**Tech Stack:** LangChain · React · FastAPI · OpenAI · External APIs
+**Tech:** LangChain · React · FastAPI · OpenAI · External APIs
 
 [![View Project](https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github)](https://github.com/MrSwapnilRahate)
 
@@ -114,27 +109,24 @@ class SwapnilRahate:
 
 ## 📊 GitHub Stats
 
-![Swapnil GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrSwapnilRahate&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=00d2ff&text_color=ffffff)
+![Stats](https://github-readme-stats.vercel.app/api?username=MrSwapnilRahate&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=00d2ff&text_color=ffffff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSwapnilRahate&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&text_color=ffffff)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSwapnilRahate&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&text_color=ffffff)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MrSwapnilRahate&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d2ff&ring=00d2ff&fire=ff6b6b&currStreakLabel=00d2ff)
+![Streak](https://streak-stats.demolab.com?user=MrSwapnilRahate&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d2ff&ring=00d2ff&fire=ff6b6b&currStreakLabel=00d2ff)
 
 ---
 
 ## 💼 Open For Freelance
 
-**Currently available for AI development projects**
-
-RAG Systems · AI Agents · LLM Applications · Full Stack AI Apps · Workflow Automation
+**Available for:** RAG Systems · AI Agents · LLM Apps · Full Stack AI · Workflow Automation
 
 [![Hire Me](https://img.shields.io/badge/Hire_Me-Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com)
-[![Email](https://img.shields.io/badge/Email_Me-hello@swapnil.ai-00d2ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@swapnil.ai)
-[![Portfolio](https://img.shields.io/badge/Portfolio-swapnil.ai-ffffff?style=for-the-badge&logo=safari&logoColor=black)](https://swapnil.ai)
+[![Email](https://img.shields.io/badge/Email-hello@swapnil.ai-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@swapnil.ai)
+[![Portfolio](https://img.shields.io/badge/Portfolio-swapnil.ai-00d2ff?style=for-the-badge&logo=safari&logoColor=white)](https://swapnil.ai)
 
 ---
 
 > *"I don't just write code — I build AI systems that deliver real business value."*
-> — Swapnil Rahate
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,50:0a3d62,100:0d1117&height=120&section=footer&animation=fadeIn)
