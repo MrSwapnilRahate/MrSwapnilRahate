@@ -37,7 +37,7 @@ class SwapnilRahate:
 
     def mission(self):
         return "I build AI systems that eliminate repetitive work and deliver real business value."
-```
+```python
 
 ---
 
