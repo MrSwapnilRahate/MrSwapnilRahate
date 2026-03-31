@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Swapnil%20Rahate&fontSize=70&fontColor=fff&fontAlignY=38&desc=AI%20Full%20Stack%20Developer&descAlignY=60&descSize=26&descColor=00d2ff&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Swapnil%20Rahate&fontSize=70&fontColor=fff&fontAlignY=38&desc=AI%20Full%20Stack%20Developer&descAlignY=58&descSize=30&descColor=00d2ff&animation=twinkling)
 
 <div align="center">
 
