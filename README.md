@@ -1,19 +1,26 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Swapnil%20Rahate&fontSize=70&fontColor=fff&fontAlignY=38&desc=🤖%20AI%20Full%20Stack%20Developer&descAlignY=58&descSize=24&descColor=00d2ff&animation=twinkling)
 
-![Typing](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=800&color=00D2FF&width=600&lines=Building+AI+systems+that+automate+real+workflows...;LangChain+%7C+LangGraph+%7C+OpenAI+API+%7C+RAG...;React+%7C+Node.js+%7C+FastAPI+%7C+MongoDB...;3%2B+Years+Enterprise+Experience+at+Infosys...;Open+for+Freelance+AI+Projects+%F0%9F%9A%80)
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/%20LinkedIn-%20Swapnil%20Rahate-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swapnilrahate)
-[![Portfolio](https://img.shields.io/badge/%20Portfolio-%20swapnil.ai-00d2ff?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://swapnil.ai)
-[![Email](https://img.shields.io/badge/%20Email-%20hello@swapnil.ai-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@swapnil.ai)
-[![Upwork](https://img.shields.io/badge/%20Upwork-%20Hire%20Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com)
+![Typing](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=800&color=00D2FF&center=true&vCenter=true&width=600&lines=Building+AI+systems+that+automate+real+workflows...;LangChain+%7C+LangGraph+%7C+OpenAI+API+%7C+RAG...;React+%7C+Node.js+%7C+FastAPI+%7C+MongoDB...;3%2B+Years+Enterprise+Experience+at+Infosys...;Open+for+Freelance+AI+Projects+%F0%9F%9A%80)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swapnilrahate)
+[![Portfolio](https://img.shields.io/badge/Portfolio-swapnil.ai-00d2ff?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://swapnil.ai)
+[![Email](https://img.shields.io/badge/Email-hello@swapnil.ai-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@swapnil.ai)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com)
 ![Views](https://komarev.com/ghpvc/?username=MrSwapnilRahate&color=00d2ff&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
 
 ---
 
 ## 👨‍💻 Who Am I
 
-| 🎯 **Role** | AI Full Stack Developer |
+| | |
 |---|---|
+| 🎯 **Role** | AI Full Stack Developer |
 | 🏢 **Company** | Infosys — Enterprise Level Systems |
 | 📍 **Location** | Nagpur, India 🇮🇳 |
 | ⚡ **Experience** | 3+ Years Full Stack Engineering |
@@ -29,11 +36,11 @@
 
 | 🧠 RAG Knowledge Systems | 🤖 AI Agents & Automation |
 |---|---|
-| Query any business document, PDF, SOP or database using plain English. No more manual searching. | Multi-step reasoning pipelines using LangChain + LangGraph that automate complex workflows end-to-end. |
+| Query any business document, PDF, SOP or database using plain English. No more manual searching. | Multi-step reasoning pipelines using LangChain and LangGraph that automate complex workflows end-to-end. |
 
 | 💬 AI Chat Interfaces | 🌐 Full Stack AI Applications |
 |---|---|
-| Production-ready LLM-powered assistants with beautiful React frontends built for real users. | Complete apps from FastAPI/Node.js backend to React UI with AI powering the core logic. |
+| Production-ready LLM-powered assistants with beautiful React frontends built for real users. | Complete apps from FastAPI or Node.js backend to React UI with AI powering the core logic. |
 
 ---
 
@@ -84,7 +91,7 @@
 
 **Impact:** 80% reduction in document search time · Works on any file type · Deployable in any business
 
-**Stack:** `LangChain` `OpenAI API` `FAISS` `React.js` `FastAPI` `Python`
+**Stack:** LangChain · OpenAI API · FAISS · React.js · FastAPI · Python
 
 [![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrSwapnilRahate)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-00d2ff?style=for-the-badge&logo=vercel&logoColor=white)](https://swapnil.ai)
@@ -99,7 +106,7 @@
 
 **Impact:** 90% reduction in manual outreach time · Personalization at scale · Higher reply rates
 
-**Stack:** `LangGraph` `GPT-4` `Node.js` `Express.js` `MongoDB`
+**Stack:** LangGraph · GPT-4 · Node.js · Express.js · MongoDB
 
 [![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrSwapnilRahate)
 
@@ -113,7 +120,7 @@
 
 **Impact:** Complete trip planning in under 5 minutes · Single interface · Personalized recommendations
 
-**Stack:** `LangChain` `OpenAI` `React.js` `FastAPI` `External APIs`
+**Stack:** LangChain · OpenAI · React.js · FastAPI · External APIs
 
 [![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrSwapnilRahate)
 
@@ -121,23 +128,39 @@
 
 ## 📊 GitHub Activity
 
-![Stats](https://github-readme-stats.vercel.app/api?username=MrSwapnilRahate&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=00d2ff&text_color=ffffff&ring_color=00d2ff)
+<div align="center">
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSwapnilRahate&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&text_color=ffffff)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrSwapnilRahate&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=00d2ff&text_color=ffffff&count_private=true&include_all_commits=true" />
 
-![Streak](https://streak-stats.demolab.com?user=MrSwapnilRahate&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d2ff&ring=00d2ff&fire=ff6b6b&currStreakLabel=00d2ff&sideLabels=ffffff&dates=ffffff)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSwapnilRahate&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&text_color=ffffff&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=MrSwapnilRahate&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d2ff&ring=00d2ff&fire=ff6b6b&currStreakLabel=00d2ff&sideLabels=ffffff&dates=ffffff" />
+
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=MrSwapnilRahate&theme=tokyonight&no-frame=true&no-bg=true&column=7)
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=MrSwapnilRahate&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+
+</div>
 
 ---
 
 ## 💼 Let's Work Together
 
-**I am currently available for freelance AI projects.**
+<div align="center">
+
+**I am currently available for freelance AI projects**
+
+</div>
 
 | Service | Description |
 |---|---|
@@ -146,11 +169,18 @@
 | 💬 LLM App | Custom AI assistant for your product |
 | 🌐 Full Stack AI | Complete end-to-end AI application |
 
+<div align="center">
+
 [![Hire on Upwork](https://img.shields.io/badge/Hire%20Me%20on%20Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com)
 [![Send Email](https://img.shields.io/badge/Email%20Me-hello@swapnil.ai-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@swapnil.ai)
 [![Portfolio](https://img.shields.io/badge/View%20Portfolio-swapnil.ai-00d2ff?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://swapnil.ai)
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swapnilrahate)
 
----
+<br/>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&animation=twinkling)
+> *"I don't just write code — I build AI systems that deliver real business value."*
+> — **Swapnil Rahate**
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Let's%20Build%20Something%20Amazing&fontSize=24&fontColor=00d2ff&fontAlignY=65&animation=twinkling)
