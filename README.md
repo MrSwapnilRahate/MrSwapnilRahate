@@ -1,11 +1,9 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:00d2ff&height=200&section=header&text=Swapnil%20Rahate&fontSize=60&fontColor=00d2ff&fontAlignY=38&desc=AI%20Full%20Stack%20Developer&descAlignY=58&descSize=22&descColor=ffffff&animation=fadeIn)
 
-<p align="center">
-<a href="https://linkedin.com/in/swapnilrahate"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:hello@swapnil.ai"><img src="https://img.shields.io/badge/Email-hello@swapnil.ai-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://swapnil.ai"><img src="https://img.shields.io/badge/Portfolio-swapnil.ai-00d2ff?style=for-the-badge&logo=safari&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=MrSwapnilRahate&color=00d2ff&style=for-the-badge&label=PROFILE+VIEWS"/>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swapnilrahate)
+[![Email](https://img.shields.io/badge/Email-hello@swapnil.ai-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@swapnil.ai)
+[![Portfolio](https://img.shields.io/badge/Portfolio-swapnil.ai-00d2ff?style=for-the-badge&logo=safari&logoColor=white)](https://swapnil.ai)
+![Views](https://komarev.com/ghpvc/?username=MrSwapnilRahate&color=00d2ff&style=for-the-badge&label=PROFILE+VIEWS)
 
 ---
 
@@ -90,7 +88,7 @@ class SwapnilRahate:
 ---
 
 ### 🤖 AI Lead Outreach Agent
-> Multi-agent system that researches prospects and auto-drafts personalized cold emails — saving hours of manual work daily.
+> Multi-agent system that researches prospects and auto-drafts personalized cold emails saving hours of manual work daily.
 
 **Tech:** LangGraph · GPT-4 · Node.js · Express · MongoDB
 
@@ -99,7 +97,7 @@ class SwapnilRahate:
 ---
 
 ### ✈️ AI Travel Planning Assistant
-> Plan your entire trip inside one intelligent chat — hotels, food, places, schedule. No more switching between apps.
+> Plan your entire trip inside one intelligent chat. Hotels, food, places, schedule. No more switching between apps.
 
 **Tech:** LangChain · React · FastAPI · OpenAI · External APIs
 
