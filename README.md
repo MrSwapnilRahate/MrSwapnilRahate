@@ -1,8 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Swapnil%20Rahate&fontSize=70&fontColor=fff&fontAlignY=38&desc=🤖%20AI%20Full%20Stack%20Developer&descAlignY=58&descSize=24&descColor=00d2ff&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Swapnil%20Rahate&fontSize=70&fontColor=fff&fontAlignY=38&desc=AI%20Full%20Stack%20Developer&descAlignY=58&descSize=26&descColor=00d2ff&animation=twinkling)
 
 <div align="center">
 
-![Typing](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=800&color=00D2FF&center=true&vCenter=true&width=600&lines=Building+AI+systems+that+automate+real+workflows...;LangChain+%7C+LangGraph+%7C+OpenAI+API+%7C+RAG...;React+%7C+Node.js+%7C+FastAPI+%7C+MongoDB...;3%2B+Years+Enterprise+Experience+at+Infosys...;Open+for+Freelance+AI+Projects+%F0%9F%9A%80)
+![Typing](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&height=52&lines=Building+AI+Systems+That+Automate+Real+Workflows;LangChain+%7C+LangGraph+%7C+OpenAI+API+%7C+RAG;React+%7C+Node.js+%7C+FastAPI+%7C+MongoDB;3%2B+Years+Enterprise+Experience+at+Infosys;Open+for+Freelance+AI+Projects)
 
 <br/>
 
@@ -10,6 +10,9 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-swapnil.ai-00d2ff?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://swapnil.ai)
 [![Email](https://img.shields.io/badge/Email-hello@swapnil.ai-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@swapnil.ai)
 [![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com)
+
+<br/>
+
 ![Views](https://komarev.com/ghpvc/?username=MrSwapnilRahate&color=00d2ff&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
@@ -44,17 +47,17 @@
 
 ---
 
-## 🛠️ Complete Tech Stack
+## 🛠️ Tech Stack
 
 ### 🤖 AI Engineering
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF4B4B?style=for-the-badge&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG%20Systems-00d2ff?style=for-the-badge&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-13AA52?style=for-the-badge&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-Vector%20DB-FF6B35?style=for-the-badge&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FFB800?style=for-the-badge&logoColor=white)
-![Embeddings](https://img.shields.io/badge/Embeddings-8A2BE2?style=for-the-badge&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF4B4B?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG%20Systems-00d2ff?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-13AA52?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-FF6B35?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FFB800?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-8A2BE2?style=for-the-badge)
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -84,8 +87,9 @@
 ## 🔥 Flagship AI Projects
 
 ### 🧠 Project 1 — AI Document Intelligence System
-![RAG](https://img.shields.io/badge/Type-RAG%20System-00d2ff?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Live-success?style=flat-square)
+
+![Type](https://img.shields.io/badge/Type-RAG%20System-00d2ff?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
 
 > Upload any business document — PDF, SOP, policy manual — and ask questions in plain English. The AI retrieves precise answers instantly with source references. Eliminates hours of manual document searching.
 
@@ -99,8 +103,9 @@
 ---
 
 ### 🤖 Project 2 — AI Lead Research & Outreach Agent
-![LangGraph](https://img.shields.io/badge/Type-Multi%20Agent-FF4B4B?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Live-success?style=flat-square)
+
+![Type](https://img.shields.io/badge/Type-Multi%20Agent-FF4B4B?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
 
 > Give it a list of leads. It auto-researches each prospect, builds context, and drafts hyper-personalized cold emails — all without human intervention. Saves 3-4 hours of manual research daily.
 
@@ -113,8 +118,9 @@
 ---
 
 ### ✈️ Project 3 — AI Travel Planning Assistant
-![Chat](https://img.shields.io/badge/Type-AI%20Chat%20Interface-8A2BE2?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Live-success?style=flat-square)
+
+![Type](https://img.shields.io/badge/Type-AI%20Chat%20Interface-8A2BE2?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
 
 > Plan your entire trip — hotels, food, attractions, day-by-day schedule — inside one intelligent chat interface. No more switching between 10 different apps and websites.
 
@@ -126,29 +132,11 @@
 
 ---
 
-## 📊 GitHub Activity
+## 📈 GitHub Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MrSwapnilRahate&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=00d2ff&text_color=ffffff&count_private=true&include_all_commits=true&cache_seconds=1800" alt="Swapnil GitHub Stats" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSwapnilRahate&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&text_color=ffffff&langs_count=8&cache_seconds=1800" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=MrSwapnilRahate&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d2ff&ring=00d2ff&fire=ff6b6b&currStreakLabel=00d2ff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 🏆 Achievements & Trophies
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=MrSwapnilRahate&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MrSwapnilRahate&theme=react-dark&bg_color=0d1117&color=00d2ff&line=00d2ff&point=ffffff&area=true&hide_border=true)
 
 </div>
 
@@ -162,25 +150,27 @@
 
 </div>
 
-| Service | Description |
-|---|---|
-| 🧠 RAG System | AI chatbot trained on your business documents |
-| 🤖 AI Agent | Automate your most repetitive workflow |
-| 💬 LLM App | Custom AI assistant for your product |
-| 🌐 Full Stack AI | Complete end-to-end AI application |
+| Service | Description | Timeline |
+|---|---|---|
+| 🧠 RAG System | AI chatbot trained on your business documents | 1-2 weeks |
+| 🤖 AI Agent | Automate your most repetitive workflow | 1-2 weeks |
+| 💬 LLM App | Custom AI assistant for your product | 2-3 weeks |
+| 🌐 Full Stack AI | Complete end-to-end AI application | 3-4 weeks |
 
 <div align="center">
 
+<br/>
+
 [![Hire on Upwork](https://img.shields.io/badge/Hire%20Me%20on%20Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com)
 [![Send Email](https://img.shields.io/badge/Email%20Me-hello@swapnil.ai-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@swapnil.ai)
-[![Portfolio](https://img.shields.io/badge/View%20Portfolio-swapnil.ai-00d2ff?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://swapnil.ai)
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swapnilrahate)
+[![View Portfolio](https://img.shields.io/badge/View%20Portfolio-swapnil.ai-00d2ff?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://swapnil.ai)
+[![Connect LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swapnilrahate)
 
 <br/>
 
 > *"I don't just write code — I build AI systems that deliver real business value."*
 >
-> — **Swapnil Rahate**
+> **— Swapnil Rahate**
 
 </div>
 
