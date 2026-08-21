@@ -1,5 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Swapnil%20Rahate&fontSize=70&fontAlignY=38&desc=Software%20Engineer&descAlignY=58&descSize=24&fontColor=ffffff&color=0:0D1117,100:00D2FF" /><div align="center">
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Swapnil%20Rahate&fontSize=70&fontAlignY=38&desc=Software%20Engineer%20%7C%20Frontend%20%26%20Product%20Engineering&descAlignY=58&descSize=24&fontColor=ffffff&descColor=E0E7FF&color=0:0F172A,50:4F46E5,100:06B6D4" />
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=850&height=52&lines=Building+Scalable+Web+Applications+and+Digital+Products;React.js+%7C+Next.js+%7C+TypeScript+%7C+JavaScript;Node.js+%7C+PostgreSQL+%7C+REST+APIs+%7C+Product+Engineering;4.5%2B+Years+of+Software+Engineering+Experience;3.5%2B+Years+of+Enterprise+Experience+at+Infosys" />
 
 <br/>
