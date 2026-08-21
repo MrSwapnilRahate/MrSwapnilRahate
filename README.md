@@ -1,17 +1,22 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Swapnil%20Rahate&fontSize=70&fontColor=fff&fontAlignY=38&desc=AI%20Full%20Stack%20Developer&descAlignY=58&descSize=26&descColor=00d2ff&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Swapnil%20Rahate&fontSize=70&fontColor=fff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Frontend%20%26%20Product%20Engineering&descAlignY=58&descSize=24&descColor=00d2ff&animation=twinkling)
 
 <div align="center">
 
-![Typing](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=850&height=52&lines=Building+Scalable+Web+%26+AI-Powered+Applications;React+%7C+Next.js+%7C+Node.js+%7C+FastAPI+%7C+Python;LangChain+%7C+LangGraph+%7C+OpenAI+API+%7C+RAG;4.5%2B+Years+of+Software+Engineering+Experience;Ex-Infosys+%7C+Open+to+Exciting+Opportunities)
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=850&height=52&lines=Building+Scalable+Web+Applications+and+Digital+Products;React.js+%7C+Next.js+%7C+TypeScript+%7C+JavaScript;Node.js+%7C+PostgreSQL+%7C+REST+APIs+%7C+Product+Engineering;4.5%2B+Years+of+Software+Engineering+Experience;3.5%2B+Years+of+Enterprise+Experience+at+Infosys" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swapnil-rahate-b19009213/)
-[![GitHub](https://img.shields.io/badge/GitHub-MrSwapnilRahate-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrSwapnilRahate)
+<a href="https://www.linkedin.com/in/swapnil-rahate-b19009213/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/MrSwapnilRahate">
+  <img src="https://img.shields.io/badge/GitHub-MrSwapnilRahate-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<br/>
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=MrSwapnilRahate&color=00d2ff&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://komarev.com/ghpvc/?username=MrSwapnilRahate&color=00d2ff&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -19,39 +24,44 @@
 
 # 👋 About Me
 
-I'm **Swapnil Rahate**, a Software Engineer with **4.5+ years of experience** building scalable web applications and digital products.
+I'm **Swapnil Rahate**, a **Software Engineer with 4.5+ years of experience** building modern web applications, scalable user interfaces, and digital products.
 
-My core background is in **Frontend and Product Engineering**, with experience building modern applications using **React, Next.js, JavaScript, TypeScript, Node.js, and REST APIs**.
+I bring **3.5+ years of enterprise engineering experience at Infosys**, along with hands-on experience owning products from **requirements and technical planning through architecture, implementation, deployment, and iteration**.
 
-I'm currently expanding my expertise into **AI Engineering and Full Stack Development**, building practical applications with **LLMs, RAG pipelines, AI agents, LangChain, LangGraph, FastAPI, and modern backend systems**.
+My core strength is **Frontend & Product Engineering**, with strong experience in **React.js, Next.js, JavaScript, TypeScript, API integration, application architecture, performance optimization, and modern web development**.
 
-> **I enjoy turning complex problems into scalable, reliable, and user-focused products.**
+I also work across the stack with **Node.js, Express.js, PostgreSQL, MongoDB, authentication, authorization, and database-driven applications**.
+
+> **I enjoy transforming complex requirements into scalable, performant, and user-focused digital products.**
+
+---
+
+## 💼 Professional Snapshot
 
 <table>
 <tr>
-<td>
+<td width="50%">
 
-### 🎯 Current Focus
+### 🎯 Core Profile
 
-- AI-powered applications
-- LLMs & RAG systems
-- AI Agents & Automation
-- Full Stack Architecture
-- Scalable backend systems
-- System Design
+- 💻 **Software Engineer**
+- ⚛️ **Frontend & Product Engineering**
+- ⏳ **4.5+ Years Experience**
+- 🏢 **3.5+ Years at Infosys**
+- 📍 **Nagpur, India**
 
 </td>
 
-<td>
+<td width="50%">
 
-### 💼 Experience
+### 🚀 Core Focus
 
-- **4.5+ Years** Software Engineering
-- **Ex-Infosys**
-- Enterprise Web Applications
-- Frontend & Product Engineering
+- Scalable Web Applications
+- Product Engineering
+- Frontend Architecture
 - Full Stack Development
-- AI-powered Systems
+- Performance Optimization
+- System Design
 
 </td>
 </tr>
@@ -63,37 +73,39 @@ I'm currently expanding my expertise into **AI Engineering and Full Stack Develo
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-## 🧠 AI-Powered Applications
+## ⚛️ Modern Frontend Applications
 
-Building intelligent applications using LLMs, RAG pipelines, AI agents, and automation workflows.
+Building responsive, performant, and maintainable interfaces with modern frontend architecture.
 
 **Focus Areas**
 
-- LLM Applications
-- RAG Systems
-- Document Intelligence
-- AI Agents
-- Workflow Automation
-- AI-powered APIs
+- React.js Applications
+- Next.js Applications
+- TypeScript & JavaScript
+- Reusable Component Architecture
+- State & Server-State Management
+- Responsive UI Development
+- Performance Optimization
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## 🌐 Scalable Web Applications
+## 🌐 Product & Full Stack Applications
 
-Building modern, performant, and user-focused applications from frontend interfaces to backend APIs.
+Building complete products from frontend interfaces to APIs, authentication, databases, and deployment.
 
 **Focus Areas**
 
-- React & Next.js
-- Node.js & Express
-- REST APIs
+- REST API Integration
+- Node.js & Express.js
 - Authentication & Authorization
-- Database Integration
-- Performance Optimization
+- Role-Based Access Control
+- Database-Driven Applications
+- Multi-Tenant Architecture
+- Deployment & CI/CD
 
 </td>
 </tr>
@@ -103,165 +115,134 @@ Building modern, performant, and user-focused applications from frontend interfa
 
 # 🛠️ Tech Stack
 
-## 🤖 AI & Machine Learning
+### 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=python" />
-&nbsp;
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
-&nbsp;
-<img src="https://img.shields.io/badge/LangGraph-FF4B4B?style=for-the-badge" />
-&nbsp;
-<img src="https://img.shields.io/badge/RAG-00D2FF?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
 </p>
 
-**Exploring & Building With**
-
-`LLMs` · `RAG` · `Embeddings` · `Vector Search` · `AI Agents` · `Prompt Engineering`
+`React.js` · `Next.js` · `TypeScript` · `JavaScript` · `HTML5` · `CSS3` · `Tailwind CSS`
 
 ---
 
-## 🎨 Frontend
+### ⚙️ Backend & APIs
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-**Core Technologies**
-
-`React.js` · `Next.js` · `JavaScript` · `TypeScript` · `HTML5` · `CSS3` · `Tailwind CSS`
+`Node.js` · `Express.js` · `REST APIs` · `Authentication` · `Authorization` · `API Integration`
 
 ---
 
-## ⚙️ Backend
+### 🗄️ Databases & Data
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis" />
 </p>
 
-**Backend Development**
-
-`Node.js` · `Express.js` · `FastAPI` · `REST APIs` · `Authentication` · `API Integration`
+`PostgreSQL` · `MongoDB` · `MySQL` · `Redis` · `Prisma ORM`
 
 ---
 
-## 🗄️ Databases & Data
+### ☁️ Cloud & Engineering
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,postman" />
 </p>
 
-`MongoDB` · `MySQL` · `PostgreSQL` · `Redis`
+`Git` · `GitHub` · `Docker` · `AWS S3` · `Vercel` · `GitHub Actions` · `CI/CD` · `Postman`
 
 ---
 
-## ⚡ Engineering & Tools
+# 🔥 Featured Work
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
-</p>
+## 🌍 TRIYARA — B2B Import & Export Platform
 
-`Git` · `GitHub` · `Docker` · `Postman` · `CI/CD`
+A product-focused B2B platform designed around global sourcing, supplier discovery, buyer requirements, RFQs, and business workflows.
 
----
+### Key Engineering Areas
 
-# 🔥 Featured Projects
+- Built SEO-focused applications using **Next.js, React, and TypeScript**
+- Implemented **SSR, SSG, and modern rendering strategies**
+- Designed product and country landing pages
+- Integrated metadata, structured data, sitemap, and SEO architecture
+- Built RFQ and contact workflows
+- Implemented buyer and supplier onboarding
+- Designed role-specific dashboards
+- Worked with authentication and authorization
+- Built organization-scoped application workflows
+- Integrated PostgreSQL with Prisma ORM
+- Used Zod for validation and TanStack Query for server-state management
+- Integrated AWS S3 for document workflows
+- Designed reusable API, business logic, authorization, and data-access layers
 
-## 🧠 AI Document Intelligence System
+### Tech Stack
 
-> An AI-powered document analysis system that allows users to upload documents and interact with them using natural language.
-
-### ✨ Features
-
-- Upload and process documents
-- Semantic document search
-- Context-aware AI responses
-- Source-based answers
-- Retrieval-Augmented Generation architecture
-
-### 🛠️ Tech Stack
-
-`Python` · `LangChain` · `OpenAI API` · `FAISS` · `FastAPI` · `React.js`
+`Next.js` · `React.js` · `TypeScript` · `Node.js` · `PostgreSQL` · `Prisma` · `TanStack Query` · `Zod` · `AWS S3`
 
 ---
 
-## 🤖 AI Workflow & Automation Experiments
+## 📄 Resume Analyzer
 
-> Exploring multi-step AI workflows where LLM-powered agents can reason through tasks, process information, and execute structured workflows.
-
-### Areas Explored
-
-- AI Agents
-- Multi-step workflows
-- LangGraph
-- Tool calling
-- Prompt orchestration
-- Automated workflows
-
-### 🛠️ Tech Stack
-
-`LangGraph` · `LangChain` · `OpenAI API` · `Node.js` · `Python`
-
----
-
-## 📄 AI Resume Analyzer
-
-> A full-stack application that analyzes resumes and generates structured insights using AI.
+A web application designed to analyze resumes and provide structured insights through backend APIs and a modern frontend interface.
 
 ### Features
 
 - Resume upload and processing
-- AI-powered analysis
-- Structured feedback
-- Backend API integration
-- Modern responsive interface
+- Structured profile analysis
+- Skills and experience evaluation
+- API-driven architecture
+- Responsive user interface
 
-### 🛠️ Tech Stack
+### Tech Stack
 
-`React.js` · `Node.js` · `Express.js` · `OpenAI API` · `JavaScript`
+`React.js` · `Node.js` · `Express.js` · `JavaScript` · `REST APIs`
 
 ---
 
 # 🧩 Engineering Experience
 
-### 🏢 Infosys
+## 🏢 Infosys
 
-**Software Development / Frontend Engineering**
+### Software Development Engineer — Frontend
 
-Worked on enterprise-level applications and digital products with a focus on:
+**Apr 2022 – Jun 2025 · 3.5+ Years**
 
-- Building reusable and scalable UI components
-- Developing responsive web applications
-- Working with React and modern JavaScript
-- API integration
-- Application performance
-- Production-level development workflows
-- Collaboration in enterprise engineering teams
+Worked on enterprise-level applications with a focus on building reliable, maintainable, and user-focused frontend solutions.
+
+### Key Contributions
+
+- Developed and maintained production web applications using **React.js and JavaScript**
+- Built reusable UI components and modular application structures
+- Integrated frontend applications with REST APIs and backend services
+- Handled state, validation, asynchronous workflows, and user interactions
+- Participated in requirement analysis, development, testing, debugging, and defect resolution
+- Collaborated with developers, QA engineers, designers, and business stakeholders
+- Improved application quality through performance optimization and efficient rendering
+- Worked with Git-based development workflows, JIRA, Postman, code reviews, and CI/CD practices
 
 ---
 
-# 📚 Currently Learning & Exploring
+# 📚 Currently Exploring
 
 ```text
-AI Engineering
-├── LLM Applications
-├── RAG Architecture
-├── AI Agents
-├── LangChain
-└── LangGraph
+Frontend Architecture
+├── Advanced React Patterns
+├── Next.js Architecture
+├── TypeScript
+└── Performance Optimization
 
-Backend & Systems
-├── FastAPI
+Backend & Data
+├── Node.js
 ├── PostgreSQL
 ├── Redis
-├── Kafka
-├── Docker
-└── Distributed Systems
+├── Caching
+└── Database Design
 
-Software Architecture
+System Architecture
 ├── System Design
 ├── Scalable Systems
+├── Distributed Systems
 ├── Microservices
 └── Cloud Architecture
